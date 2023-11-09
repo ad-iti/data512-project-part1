@@ -22,7 +22,7 @@ Finally, we use all of the gathered data to illustrate some wildfire trends over
 - a time series graph of total acres burned per year for the fires occurring within 1250 miles of Rapid City
 - a time series graph containing the fire smoke estimate for Rapid City compared to the AQI estimate
 
-Code on how these visualization were produce can be found in ```./code/data_visualization.ipynb```. The final outputs and their detailed descriptions can be found in ```./reflection.pdf```.
+Code on how these visualization were produce can be found in ```./code/smoke_estimate_viz.ipynb```. The final outputs and their detailed descriptions can be found in ```./reflection.pdf```.
 
 ## Files 
 
@@ -42,14 +42,12 @@ Code on how these visualization were produce can be found in ```./code/data_visu
 ```USGS_data_acquisition.ipnyb```
 - dksjhdwe
 
-```smoke_estimate_model.ipnyb```
+```smoke_estimate_viz.ipnyb```
 - dkjdfhjewh
 
 ```EPA_data_acquisition.ipynb```
 - dkjhfjkweh
 
-```data_visualization.ipynb```
-- dkdjhf dewkjd
 
 #### reflection.pdf
 fkdsjhfejdf
