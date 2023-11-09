@@ -49,3 +49,9 @@ Finally, we use all of the gathered data to illustrate some wildfire trends over
 
 #### reflection.pdf
 This file contains snapshots of the produced visualizations, their descriptions, and a reflection on the collaborative aspects of this assignment.
+
+## Special Considerations
+- It takes ~1 hour to run all the notebooks in this repo and load all necessary data.
+- The EPA only has AQI data available for Rapid City, NV during and after the year 1985.
+- The predictive model (quadratic regression) produced in ```./code/smoke_estimate_viz.ipnyb``` is highly uncertain and likely not representative of the next 25 years.
+- Fire perimeter estimates are still a work in progress, and likely are not 100% accurate.
