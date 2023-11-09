@@ -20,6 +20,43 @@ We pull this data with the intention of comparing the previously computed smoke 
 Finally, we use all of the gathered data to illustrate some wildfire trends over time in Rapid City, Nevada. Specifically, we produce:
 - a histogram showing the number of fires occurring every 50 mile distance from Rapid City
 - a time series graph of total acres burned per year for the fires occurring within 1250 miles of Rapid City
-- =a time series graph containing the fire smoke estimate for Rapid City compared to the AQI estimate
+- a time series graph containing the fire smoke estimate for Rapid City compared to the AQI estimate
+
+These outputs and their detailed descriptions can be found in *./reflection.pdf*.
+
+## Files 
+
+#### raw_data
+
+*USGS_Wildland_Fire_Combined_Dataset.json*
+- fnekwfbekwjbfkjwebf
+
+#### intermediate_data
+
+*USGS_Wildland_Fire_Combined_Dataset_Features.csv*
+- fhdksjfhkdjshfkjehfew
+
+#### final_data
+
+*final_data.csv*
+- fnwkjfbewjkbfkjew
+
+#### code
+
+*data_acquisition.ipnyb*
+- dksjhdwe
+
+*smoke_estimate.ipnyb*
+- dkjdfhjewh
+
+*EPA_data_acquisition.ipynb*
+- dkjhfjkweh
+
+*data_visualization.ipynb*
+- dkdjhf dewkjd
+
+#### reflection.pdf
+fkdsjhfejdf
+
 
 
