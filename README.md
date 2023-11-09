@@ -15,7 +15,7 @@ Then, we use this estimate to develop a predictive model based on the fire data 
 
 Next, we request data from the US Environmental Protection Agency (EPA) Air Quality Service (AQS) [API](https://aqs.epa.gov/aqsweb/documents/data_api.html), which is a historical API that provides data on the Air Quality Index (AQI) statistic. Information on how this statistic is calculate can be found [here](https://www.airnow.gov/sites/default/files/2020-05/aqi-technical-assistance-document-sept2018.pdf). The US EPA was created in the early 1970's. The EPA reports that they only started broad based monitoring with standardized quality assurance procedures in the 1980's. Some [additional information on the Air Quality System can be found in the EPA FAQ](https://www.epa.gov/outdoor-air-quality-data/frequent-questions-about-airdata) on the system.
 
-We pull this data with the intention of comparing the previously computed smoke estimates for Rapid City to the AQI indedices produced by the EPA on a year to year basis. Step by step process for the data requests are found in *./EPA_data_acquisition.ipynb*. 
+We pull this data with the intention of comparing the previously computed smoke estimates for Rapid City to the AQI indedices produced by the EPA on a year to year basis. Step by step process for the data requests are found in *./code/EPA_data_acquisition.ipynb*. 
 
 Finally, we use all of the gathered data to illustrate some wildfire trends over time in Rapid City, Nevada. Specifically, we produce:
 - a histogram showing the number of fires occurring every 50 mile distance from Rapid City
