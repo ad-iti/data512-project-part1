@@ -28,7 +28,7 @@ These outputs and their detailed descriptions can be found in *./reflection.pdf*
 
 #### raw_data
 
-*USGS_Wildland_Fire_Combined_Dataset.json*
+```USGS_Wildland_Fire_Combined_Dataset.json```
 - fnekwfbekwjbfkjwebf
 
 #### intermediate_data
