@@ -33,26 +33,26 @@ These outputs and their detailed descriptions can be found in *./reflection.pdf*
 
 #### intermediate_data
 
-*USGS_Wildland_Fire_Combined_Dataset_Features.csv*
+```USGS_Wildland_Fire_Combined_Dataset_Features.csv```
 - fhdksjfhkdjshfkjehfew
 
 #### final_data
 
-*final_data.csv*
+```final_data.csv```
 - fnwkjfbewjkbfkjew
 
 #### code
 
-*data_acquisition.ipnyb*
+```data_acquisition.ipnyb```
 - dksjhdwe
 
-*smoke_estimate.ipnyb*
+```smoke_estimate.ipnyb```
 - dkjdfhjewh
 
-*EPA_data_acquisition.ipynb*
+```EPA_data_acquisition.ipynb```
 - dkjhfjkweh
 
-*data_visualization.ipynb*
+```data_visualization.ipynb```
 - dkdjhf dewkjd
 
 #### reflection.pdf
